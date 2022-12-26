@@ -36,7 +36,7 @@ model	hpo1	hpo2	hpo3	score
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](https://github.com/lankabhedi/nd009t-c1-intro-to-ml-project-starter/blob/master/model_test_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
