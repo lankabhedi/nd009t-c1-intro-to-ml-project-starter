@@ -42,7 +42,7 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](https://github.com/lankabhedi/nd009t-c1-intro-to-ml-project-starter/blob/master/model_test_score.png)
 
 ## Summary
 The initial model had a score of 1.79221, but the performance was improved by creating additional features and converting the datetime column into separate columns for day, month, and year. The best-performing model was the "WeightedEnsemble_L3" model, with a score of 0.64795. Hyperparameter tuning allowed the model to be trained in 60 seconds without significantly affecting the Kaggle score. If given more time with the dataset, the practitioner would spend more time learning about the origin of the data and engineering additional features to improve the model's performance. The model's training scores and Kaggle scores are shown in the provided line plots.
